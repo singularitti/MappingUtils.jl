@@ -111,7 +111,7 @@ uuid = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 uuid = "56ddb016-857b-54e1-b83d-db4d58db5568"
 
 [[deps.MappingUtils]]
-git-tree-sha1 = "46591dd8821b20da3322f307ab92fbf19eca2cb0"
+git-tree-sha1 = "92b6d8dd1fa972a1ca261c129e1c26c3f700f6fd"
 repo-rev = "main"
 repo-url = "https://github.com/singularitti/MappingUtils.jl"
 uuid = "2aeca855-b0b5-4216-846d-e4e4240d1796"
